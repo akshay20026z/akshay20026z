@@ -4,4 +4,16 @@
 - 🌱 I’m currently learning: Machine Learning and SQL.
 - 💬 Ask me about: Python, pandas, NumPy.
 
+## 📊 GitHub Stats
+- 2 public repositories
+
+## 🧠 Top Languages
+-Python and SQL
+
+
+
+
+
+
+
 
